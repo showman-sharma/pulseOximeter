@@ -1,4 +1,4 @@
-# EE18B036 Homework 1: Pulse Rate Estimation using Smartphone Camera footage.
+# Pulse Rate Estimation using Smartphone Camera footage.
 
 There are 2 files for code
 1. EE18B036_functions.py
